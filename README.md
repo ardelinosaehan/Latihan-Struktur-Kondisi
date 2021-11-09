@@ -9,7 +9,7 @@ Program Sederhana dengan Input dua bilangan dan tampilkan nilai terbesarnya
 3. Cetak nilai terbesarnya
 
 Hasil Input dan Outputnya
-![img](ss.sklatihan1)
+![img](ss.sklatihan1.png)
 
 
 - Latihan 2
@@ -23,5 +23,5 @@ Program mengurutkan data dari yang terkecil ke terbesar
 6. Cetak data
 
 Hasil Input dan Outputnya
-![img](ss.sklatihan2)
+![img](ss.sklatihan2.png)
 
